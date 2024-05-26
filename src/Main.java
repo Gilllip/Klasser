@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Hello world!");
 
        /* Book book1 = new Book("Book 1", 100);
-        Book book2 = new Book("Book 2", 200);
+        Book book2 = new Book("Book 2", 200);// hej 
         Book book3 = new Book("Book 3", 250);
 
         System.out.println("Book 1: Name - " + book1.GetName() + ", Pages - " + book1.GetPages());
